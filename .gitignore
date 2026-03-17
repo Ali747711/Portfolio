@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+PORTFOLIO-avicenna.md
+PORTFOLIO-busa.md
+PORTFOLIO-livit-nest.md
+PORTFOLIO-livit-next.md
+PORTFOLIO-morning-cup-backend.md
+PORTFOLIO-morning-cup.md
+
+.agents
+.claude
+.superpowers
